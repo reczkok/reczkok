@@ -5,4 +5,4 @@
 ## My interests include but are not limited to:
 1. Computer Science (*I swear*)
 2. Volleyball
-3. Everything connected to new technologies :)
+3. Everything connected with new technologies :)
