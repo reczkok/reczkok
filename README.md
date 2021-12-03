@@ -9,3 +9,6 @@
 
 # My webpage!:
 [Page](https://reczkok.github.io)
+
+# Very interesting paper on image super-resolution forked from [Jaspiry](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
+[The paper!](https://github.com/reczkok/Image-Super-Resolution-via-Iterative-Refinement)
